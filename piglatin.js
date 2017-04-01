@@ -9,10 +9,10 @@ module.exports = function(string) {
   var pigafiedSentence = pigafied.join(" ");
   console.log(regWord);
 
-  for(i = 0; 0 < regWord.length; i++){
-     regWord[i].charAt(0).toLowerCase();
-     pigafied.push(regWord);
+  for(i = 0; 0 < regWords.length; i++){
+     regWords[i].charAt(0).toLowerCase();
 
+     pigafied.push(regWord);
   }
 
 
