@@ -1,0 +1,20 @@
+{
+  "name": "pig-latin-translator",
+  "version": "1.0.0",
+  "description": "A new alien species has moved to earth and they only speak pig-latin! The president has called you and says that they need your help!",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --watch tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSlovak/pig-latin-translator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSlovak/pig-latin-translator/issues"
+  },
+  "homepage": "https://github.com/JSlovak/pig-latin-translator#readme"
+}
